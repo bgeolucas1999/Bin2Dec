@@ -1,2 +1,2 @@
 # Bin2Dec
-## Projeto Treino - Binario para Decimal
+## Exercicio - Binario para Decimal
